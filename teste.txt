@@ -1,1 +1,2 @@
-novo arquivo
+novo arquivo 
+teste de conflito
